@@ -3,72 +3,72 @@ Thank you for choosing and using Iris (Project Iris App). In Qastor, we believe 
 
 This document may be changed without noticing.
 
-About informations relating to data sending, see "Carina and Data Sending"
+Unless otherwise stated, all data written below will not be used to create user profiles or personalize ads by Iris.
 
 If there is any differences between Privacy Policy's different languages, please follow Simplified Chinese version.
 
-## Bookmarks & History
-Bookmarks and History will be collected and stored locally. Use Private Mode to pause history recording.
+## History and Bookmarks
 
-## Settings
-All settings values are stored locally.
+Your history and bookmarks are collected and stored locally. They may be transferred to other devices via iCloud. Enabling incognito mode will pause history recording.
 
-## Statistics
-When you agree, your action may be recorded when you access specific pages or join votings. The recorded data will only contains the current time, the accessing page (or voting details). no other details will be sent. This data will be sent to Darock Server and stored there, in order to count.
+Your history and bookmarks will be attached to Carina Feedback. All transferred history and bookmarks are disclosed before being sent and can be removed from the sent content.
 
-The only purpose for statistics is to learn user's preferences. This data is not linked to your identity. Which means statistics are fully anonymous and we cannot infer or track your identity from it.
+This content will not be used to create profiles or personalized ads.
 
-All statistic datas will not be sent to third parties other than Qastor and Darock, and will not be used to create user image or advertising.
+## Settings and Statistics
 
-Darock had promised not to use statistic datas for other reasons other than learning user preferences.
+All settings options are stored locally.
 
-As you agree, collecting statistics are be allowed by default. You can toggle it off manually in Settings. All your data will not be used to create user image or advertising.
+Iris may record this information when you visit certain pages or perform certain actions.
 
-## Webpage Content
-Iris will not access your accessing webpage content before you allowed.
+Iris records this information when you participate in in-app polls.
 
-Iris is not responsible for the content on the Internet or the actions you do on the Internet.
+The above information may be collected anonymously for statistical purposes. These local records will be deleted after the statistics are sent. Their purpose is solely for statistical analysis and does not record any information other than the action itself and the time.
 
-## Carina and Data Sending
-Your App-related data will be send together when creating new Carina feedback. Your Iris version and system version will be sent with content together when you reply a feedback.
+The purpose of statistical data is to understand overall user preferences to improve the product. This data is not associated with the user's identity and is completely anonymous; we cannot infer, track, or trace your identity from the data.
 
-Your IP address may be recorded for security reasons.
+Statistics are not sent to any third party outside of Qastor and Darock, nor are they used to create profiles or personalized ads.
 
-Feedback datas will be sent and stored at Darock Server, also won't be sent to third parties other than Qastor and Darock, and will not be used to create user image or advertising.
+Statistics can be turned off in settings.
 
-Your geographical location and passcode will never be sent, no matter how.
+## Web Content
+Iris does not actively upload the content of the web pages you visit to the internet.
 
-When Iris crashes, you can choose to report. The report will carry on all the attachments by default, you cannot track the report.
+Iris is not responsible for internet content or your actions on the internet.
 
-All data that will be sent will be showed on the screen for you to confirm.
+## Carina Feedback
+When you send a new Carina feedback, basic information related to the app will be sent along with it. When you reply to feedback, your Iris version and system version will be sent along with the text.
 
-## Votings
-You might see votings sometimes. Votings is a major reference for Iris future updates.
+For security purposes, your IP address may be logged by Darock.
 
-Votings does not contains any extra informations and is totally anonymous. No one may know the sender of any vote.
+Feedback information is sent to and stored on Darock servers. This information is not shared with any third party outside of Qastor and Darock, nor is the data used to create profiles or personalized ads.
 
-Voting results may not be used, but we still see votings as a very important reference.
+Your location and password are not uploaded to the feedback system.
 
-## Archive
-Webpage will be downloaded and saved to your device when archiving. Title, URL and last update time will be saved also.
+When Iris crashes, you can choose to report the problem. Reported problems will by default include device, region, and settings information. You cannot track crash reports.
 
-## Extensions
-Extensions datas are from greasyfork.org. Extensions are essentially Javascript that runs when it mets webpages that meet the conditions.
+All data sent will be displayed on the screen.
 
-Iris will fetch web contents from greasyfork.org and renders UI (including simple calculations), allowing you to save and run them locally.
+## Archives
+Web pages are downloaded and saved locally when archived. The title, URL, and last updated time are recorded.
 
-Iris will not intentionally edit contents. Iris is not responsible for the datas on this website, and the website is not responsible for Iris. Malicious scripts may steal your web data, you need to take responsibility for the risks brought by the script. Not all extensions run well on watchOS.
+## Plugins
+Plugin data comes from greasyfork.org. Iris crawls and formats web page content from greasyfork.org, allowing you to save and run the code locally.
 
-## Appearance
-Appearance will affect how Iris displays. It has Light Mode and Dark Mode.
+Iris is not responsible for GreasyFork's content. Malicious scripts may steal your web page data; you are solely responsible for the risks associated with such scripts.
 
-Appearance can be changed in specific period, or switched automatically according to sunrise and sunset time.
+Iris does not proactively disclose plugin usage to websites, but cannot guarantee that plugins will not be detected by websites.
 
-Sunrise and sunset time are based on your location. Location information is a highly-sensitive data, and we attach great importance to your privacy. When using this feature, we need to get your approximate location. Your location will be randomly shifted 1-20 kilometers by watchOS in order to protect your privacy. We cannot get your accurate location.
+## Location Information
+Sunrise and sunset times are based on your location. Location information is highly sensitive. When using this feature, we need to obtain your approximate location. Your location will be randomly offset by 1 to 20 kilometers by watchOS to protect your privacy. We cannot know your exact location.
 
-Your location information will never be stored locally or be send to others. Only your latitude, longitude and altitude informations will be used. Iris will do geometrical calculations locally, getting your today's sunrise and sunset time. There may be a deviation of about 2 minutes between sunrise and sunset.
+Your location information will not be sent to Carina Feedback or disclosed to the website. Only your latitude, longitude, and altitude data will be used.
 
-## Bulletin
-Bulletin is a way we tell you informations about Iris. Each fetched bulletin will be stored locally in order to check if the bulletin had updated.
+## Announcements
+Iris does not track how many people have read announcements.
 
-You had read the latest bulletin or not will be stored locally, only for mentioning purpose. We do not know how many people had read the bulletin.
+## Sync
+
+All your information, including passwords, may be sent to iCloud for multi-device syncing. This information will be processed in accordance with iCloud's privacy policy. This sync data will only be sent to iCloud.
+
+Location information will not be synced because it is not stored locally.
