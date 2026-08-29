@@ -21,7 +21,9 @@ All settings options are stored locally.
 
 Iris may record this information when you visit certain pages or perform certain actions.
 
-Iris records this information when you participate in in-app polls.
+Iris records information when you participate in in-app polls.
+
+Iris may record your system environment information when you launch the app.
 
 The above information may be collected anonymously for statistical purposes. These local records will be deleted after the statistics are sent. Their purpose is solely for statistical analysis and does not record any information other than the action itself and the time.
 
