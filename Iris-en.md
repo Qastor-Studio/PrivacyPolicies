@@ -70,7 +70,13 @@ Your location information will not be sent to Carina Feedback or disclosed to th
 Iris does not track how many people have read announcements.
 
 ## Sync
-
 All your information, including passwords, may be sent to iCloud for multi-device syncing. This information will be processed in accordance with iCloud's privacy policy. This sync data will only be sent to iCloud.
 
+Sensitive information like passcodes will be secured and synced through iCloud Keychain.
+
 Location information will not be synced because it is not stored locally.
+
+## Authorization
+The authorization feature built in Iris allows you to use system passcode and biometric verification to lock some content. The you use system passcode and biometric verification, all process will be done by the operating system, and Iris will only be notified if the verification is success or not, but will not get your system passcode and biometric verification information.
+
+When setting up an alternative passcode, the passcode will be stored securely with iCloud Keychain, and verification process will be handled by Iris.
